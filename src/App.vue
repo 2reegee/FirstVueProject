@@ -1,0 +1,16 @@
+<template>
+    <div id="app">
+      <div class="red-square"></div>
+  </div>
+</template>
+<script>
+
+</script>
+
+<style>
+   .red-square {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+   }
+</style>
